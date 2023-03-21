@@ -1,4 +1,4 @@
-package com.erhan.user.input;
+package com.erhan.userInput;
 import java.util.Scanner;
 
 public class Message {
