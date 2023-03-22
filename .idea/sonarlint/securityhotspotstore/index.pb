@@ -15,3 +15,11 @@ S
 #src/com/erhan/user_input/Story.java,5\4\54bee6d86676aeea5441918ab5c8dc15483ab8fd
 e
 5src/com/erhan/variables_in_java/VariousVariables.java,8\a\8adc4a03b958a958b6440ff74867f5af50464e32
+\
+,src/com/erhan/sand_pit/ConvertingValues.java,e\1\e10387d1a1142f3183ac42bf4c050f66e5d2b550
+c
+3src/com/erhan/variables_in_java/Values_Integer.java,0\4\048f994ea94073a6baac64438c12c2626987f520
+d
+4src/com/erhan/variables_in_java/StringsToDouble.java,9\c\9c61e8ac4d934840262292259600f6f29ede5023
+e
+5src/com/erhan/variables_in_java/VariablesSandPit.java,a\a\aa8322de88bc651baaa2c6f6637a826168f9fc31
