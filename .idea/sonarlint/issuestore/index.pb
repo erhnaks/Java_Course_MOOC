@@ -23,3 +23,11 @@ d
 4src/com/erhan/variables_in_java/StringsToDouble.java,9\c\9c61e8ac4d934840262292259600f6f29ede5023
 e
 5src/com/erhan/variables_in_java/VariablesSandPit.java,a\a\aa8322de88bc651baaa2c6f6637a826168f9fc31
+X
+(src/com/erhan/numbers/SecondsInADay.java,5\e\5edcddb8cf99759f549d1509932b62d1aea2de98
+Z
+*src/com/erhan/numbers/SumOfTwoNumbers.java,2\5\258b9aa06a3f49ce0148cf18b096091dfcbd681e
+\
+,src/com/erhan/numbers/SumOfThreeNumbers.java,7\9\79b39315a7aa17d637a52c5950bcd4ca6afe4083
+Z
+*src/com/erhan/numbers/AdditionFormula.java,9\9\99402e87c931a5a7f1ecc0763e28c023dba7e466
