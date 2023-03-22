@@ -13,9 +13,11 @@ public class MultiplicationFormula {
         System.out.println("Give the second number:");
         int second = scanner.nextInt();
 
-        int sum = first * second;
+        System.out.println(first + " * " + second + " = " +(first * second));
 
-        System.out.println(first + " * " + second + " = " + sum);
+//        int sum = first * second;
+
+
 
     }
 }
