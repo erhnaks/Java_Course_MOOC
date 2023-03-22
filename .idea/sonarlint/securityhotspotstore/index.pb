@@ -25,8 +25,6 @@ e
 5src/com/erhan/variables_in_java/VariablesSandPit.java,a\a\aa8322de88bc651baaa2c6f6637a826168f9fc31
 X
 (src/com/erhan/numbers/SecondsInADay.java,5\e\5edcddb8cf99759f549d1509932b62d1aea2de98
-Z
-*src/com/erhan/numbers/SumOfTwoNumbers.java,2\5\258b9aa06a3f49ce0148cf18b096091dfcbd681e
 \
 ,src/com/erhan/numbers/SumOfThreeNumbers.java,7\9\79b39315a7aa17d637a52c5950bcd4ca6afe4083
 Z
