@@ -32,6 +32,4 @@ public class AverageOfPositiveNumbers {
             System.out.println(((double) sum / count));
         }
     }
-
-
 }
