@@ -1,4 +1,4 @@
-package com.erhan.part_two.problems_patterns;
+package com.erhan.part_two.problems_patterns.if_else;
 
 import java.util.Scanner;
 
