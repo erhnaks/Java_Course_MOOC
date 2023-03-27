@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class WhileTrueWithCondition {
     public static void main (String[] args) {
         int num;
-        int counter = 0 ;
+        int counter = 1 ;
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Countdown: ");
@@ -15,8 +15,8 @@ public class WhileTrueWithCondition {
 
     while (counter <= num) {
 
-        System.out.println( num);
-        num--;
+        System.out.println( counter);
+        counter++;
     }
         System.out.println("GO! GO! GO!");
     }
