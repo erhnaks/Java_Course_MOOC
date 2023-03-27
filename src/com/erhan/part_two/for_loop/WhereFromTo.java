@@ -13,7 +13,7 @@ public class WhereFromTo {
         int from = scanner.nextInt();
 
         for (int i = from; i <= end; i++) {
-            System.out.println(i);
+            System.out.println("going to " + i );
         }
     }
 }
