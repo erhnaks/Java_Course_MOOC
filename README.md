@@ -1,4 +1,4 @@
-# ** Java MOOC Course ** 
+# **Java MOOC Course** 
 
 Java - refresher course provided by University of Helsinki on MOOC.
 
