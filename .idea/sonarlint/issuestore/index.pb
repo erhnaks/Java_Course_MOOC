@@ -37,3 +37,9 @@ j
 :src/com/erhan/part_two/for_loop/CountingFromToHundred.java,0\c\0cfffbefb751db527a76ce842e0c233dce56a117
 `
 0src/com/erhan/part_two/for_loop/WhereFromTo.java,6\9\6976d1e7f026308a243704a5e2fd54de7e2cb553
+c
+3src/com/erhan/part_two/for_loop/SumOfASequence.java,b\7\b7d9e973049a1cf93220bc31872d5ebe63409c50
+^
+.src/com/erhan/part_two/for_loop/Factorial.java,0\1\013f6e1a0ae934f9cb99c48a5e65f1fe0da68bfd
+k
+;src/com/erhan/part_two/for_loop/SumOfSequenceTheSequel.java,2\9\29cf3c98e28389abdba4b03c1f4e054aacf39c41
