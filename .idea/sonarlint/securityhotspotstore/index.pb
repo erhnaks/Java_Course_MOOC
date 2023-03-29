@@ -1,8 +1,6 @@
 
 a
 1src/com/erhan/part_one/conditionals/LeapYear.java,8\8\881c3a4bb272bbf49a6e028dc89342202d902ad5
-f
-6src/com/erhan/part_one/conditionals/TaxCalculator.java,8\b\8b195474cd9cfdc636a18a66f77a7b8b39cc2b5e
 ^
 .src/com/erhan/sandpit/ConditionalExercise.java,7\e\7e89becff3ea66a6d7302444d4dc47d17571325b
 s
@@ -43,3 +41,9 @@ k
 ;src/com/erhan/part_two/for_loop/SumOfSequenceTheSequel.java,2\9\29cf3c98e28389abdba4b03c1f4e054aacf39c41
 ^
 .src/com/erhan/part_two/for_loop/Factorial.java,0\1\013f6e1a0ae934f9cb99c48a5e65f1fe0da68bfd
+X
+(src/com/erhan/sandpit/PerfectNumber.java,c\5\c59dc1cffb9c855df88dc96a4846856a32a746d9
+t
+Dsrc/com/erhan/part_two/for_loop/RepeatingBreakingAndRemembering.java,8\9\893ddd3abc0719cafb72d845df09273e2d79a011
+f
+6src/com/erhan/part_one/conditionals/TaxCalculator.java,8\b\8b195474cd9cfdc636a18a66f77a7b8b39cc2b5e
