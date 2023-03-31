@@ -8,7 +8,7 @@ public class NumberUnoMethodWithReturnType {
 
     public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
-        int number= numberUno();
+        int number = numberUno();
         System.out.println(number);
         System.out.println(numberUno());
 
