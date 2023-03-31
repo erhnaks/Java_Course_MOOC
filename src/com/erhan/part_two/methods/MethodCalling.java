@@ -14,6 +14,4 @@ public class MethodCalling {
         name = scan.nextLine();
         System.out.println("Hello, " + name + "! Nice to meet you!");
     }
-
-
 }
