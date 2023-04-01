@@ -61,3 +61,9 @@ b
 2src/com/erhan/part_two/methods/DivisionMethod.java,0\0\0096b451d546a391f1e43fc35cba309675339dcd
 j
 :src/com/erhan/part_two/methods/DivisibleByThreeMethod.java,4\7\47b60875dfd2b420532ad999dc7b09b9ec3898a0
+q
+Asrc/com/erhan/part_two/methods/NumberUnoMethodWithReturnType.java,8\e\8eafa4ce39701567d5c6a0b52c2118a371d1c244
+`
+0src/com/erhan/part_two/methods/StringMethod.java,7\7\771892c223d53445b1bdf69ed83f4fae1d7dd237
+h
+8src/com/erhan/sandpit/MethodExerciseReturnStatement.java,4\3\4301529c1c48a38def0cdf94e9115db221dd66f6
