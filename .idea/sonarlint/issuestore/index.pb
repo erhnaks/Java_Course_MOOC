@@ -67,3 +67,11 @@ Asrc/com/erhan/part_two/methods/NumberUnoMethodWithReturnType.java,8\e\8eafa4ce
 0src/com/erhan/part_two/methods/StringMethod.java,7\7\771892c223d53445b1bdf69ed83f4fae1d7dd237
 h
 8src/com/erhan/sandpit/MethodExerciseReturnStatement.java,4\3\4301529c1c48a38def0cdf94e9115db221dd66f6
+c
+3src/com/erhan/part_two/methods/SummationMethod.java,4\7\47c4c186d6890ee95b3cb17a882f501ed4de6827
+b
+2src/com/erhan/part_two/methods/SmallestNumber.java,4\0\40b00079757093c04b0782b9529f40edfcf74571
+b
+2src/com/erhan/part_two/methods/GreatestNumber.java,d\e\dec0a0375a2ee83b74633a5c6d0732e073a2fc9e
+a
+1src/com/erhan/part_two/methods/AverageMethod.java,9\7\97d7dbd2ed043e4bbcec9c30c496116bf72224c3
