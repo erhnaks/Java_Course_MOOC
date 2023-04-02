@@ -6,7 +6,7 @@ public class PatternPrintNumbers {
     public static void main(String[] args) {
 //        int num = numberOfTimes(5);
 
-//        printPattern(3);
+        printPattern(3);
         printPatternRepeated(3);
 
 
