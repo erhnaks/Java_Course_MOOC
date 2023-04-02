@@ -11,13 +11,6 @@ public class PatternPrintNumbers {
 
     }
 
-//    public static int numberOfTimes(int num) {
-//        Scanner scan = new Scanner(System.in);
-//        System.out.println("Enter a number: ");
-//        num = scan.nextInt();
-//        return num;
-//    }
-
     public static void printPattern(int num) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter a number: ");
@@ -29,5 +22,13 @@ public class PatternPrintNumbers {
             System.out.println();
         }
     }
+
+/*    public static int numberOfTimes(int num) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Enter a number: ");
+        num = scan.nextInt();
+        return num;
+    }*/
+
 
 }
