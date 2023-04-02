@@ -75,3 +75,7 @@ b
 2src/com/erhan/part_two/methods/GreatestNumber.java,d\e\dec0a0375a2ee83b74633a5c6d0732e073a2fc9e
 a
 1src/com/erhan/part_two/methods/AverageMethod.java,9\7\97d7dbd2ed043e4bbcec9c30c496116bf72224c3
+j
+:src/com/erhan/part_two/methods/StarsStarsAndMoreStars.java,c\a\ca0a4d499f58ed698e00716fecb92d5531b0b66f
+j
+:src/com/erhan/part_two/methods/AdvanceAstrologyMethod.java,6\c\6cc003d210899bdb8619863f464ef0b1223a1f32
