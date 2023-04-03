@@ -95,3 +95,7 @@ k
 ;src/com/erhan/part_three/lists/SecondPlusThirdInArrays.java,a\5\a5ac622b66e87f0750969165cf9262434e1ef6a1
 z
 Jsrc/com/erhan/part_three/lists/IndexOutOfBoundsExceptionErrorInArrays.java,3\b\3b2ef50f349effb4aa9fb476d6fb86941d6d185c
+e
+5src/com/erhan/part_three/lists/ListSizeOfAnArray.java,c\2\c24ab59784211eac6f7ae1294f6a531d7c11b0ee
+g
+7src/com/erhan/part_three/lists/TheLastOneInTheList.java,0\4\0420f4726db2b9dde151605bd1c8da3dbff63455
