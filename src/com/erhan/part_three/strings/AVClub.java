@@ -4,10 +4,6 @@ import java.util.Scanner;
 
 public class AVClub {
 
-import java.util.Scanner;
-
-    public class AVClub {
-
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
@@ -28,4 +24,3 @@ import java.util.Scanner;
             }
         }
     }
-}
