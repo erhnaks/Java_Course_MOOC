@@ -24,6 +24,13 @@ public class AverageOfAList {
         double avr = 1.0;
         int sum = 0;
 
+        System.out.println("Numbers entered: ");
+
+        for (Integer nums : list) {
+            System.out.println(nums);
+        }
+        System.out.println();
+        System.out.println("Average of the numbers are: ");
         for (Integer i : list) {
             sum += i;
             avr = 1.0 * sum / list.size();
