@@ -99,3 +99,9 @@ e
 5src/com/erhan/part_three/lists/ListSizeOfAnArray.java,c\2\c24ab59784211eac6f7ae1294f6a531d7c11b0ee
 g
 7src/com/erhan/part_three/lists/TheLastOneInTheList.java,0\4\0420f4726db2b9dde151605bd1c8da3dbff63455
+g
+7src/com/erhan/part_three/lists/RememberThisNumbers.java,2\6\2699bb6f259059bd9876760173b511deb02cecc4
+c
+3src/com/erhan/part_three/lists/FirstAndTheLast.java,1\6\168b13cd6f7ab55b4ee01d0b67cfd1fe0084858c
+j
+:src/com/erhan/part_three/lists/OnlyPrintFromToNumbers.java,2\9\297e76de58cd99399b47c5ff19a99f03e418091a
