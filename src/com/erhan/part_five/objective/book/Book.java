@@ -5,6 +5,13 @@ public class Book {
     private String name;
     private int page;
 
+
+    public Book(String author, String name, int page) {
+        this.author = author;
+        this.name = name;
+        this.page = page;
+    }
+
     public String getAuthor() {
         return author;
     }
@@ -31,10 +38,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Book{" +
-                "author='" + author + '\'' +
-                ", name='" + name + '\'' +
-                ", page=" + page +
-                '}';
+        return this.getAuthor() + ", " + this.getName() + ", " + this.getPage() + " pages.";
     }
 }
