@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.methodexercise;
 
 public class MethodExerciseReturnStatement {
 

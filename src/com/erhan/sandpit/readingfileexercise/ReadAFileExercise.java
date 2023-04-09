@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.readingfileexercise;
 
 import java.nio.file.Path;
 import java.util.Scanner;

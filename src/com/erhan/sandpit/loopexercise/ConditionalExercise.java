@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.loopexercise;
 
 public class ConditionalExercise {
     public static void main (String[] args) {

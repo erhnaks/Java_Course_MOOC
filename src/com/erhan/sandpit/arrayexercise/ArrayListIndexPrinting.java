@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.arrayexercise;
 
 import java.util.ArrayList;
 

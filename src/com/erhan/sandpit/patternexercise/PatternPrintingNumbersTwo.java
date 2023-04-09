@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.patternexercise;
 
 import java.util.Scanner;
 

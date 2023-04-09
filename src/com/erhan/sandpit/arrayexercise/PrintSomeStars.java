@@ -1,4 +1,4 @@
-package com.erhan.sandpit.arrayexersize_1;
+package com.erhan.sandpit.arrayexercise;
 
 import java.util.ArrayList;
 import java.util.Scanner;

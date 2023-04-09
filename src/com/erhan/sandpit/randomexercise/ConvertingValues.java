@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.randomexercise;
 
 public class ConvertingValues {
     public static void main(String[] args) {

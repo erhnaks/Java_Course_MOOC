@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.randomexercise;
 import java.util.Scanner;
 public class PerfectNumber {
     public static void main (String[] args) {

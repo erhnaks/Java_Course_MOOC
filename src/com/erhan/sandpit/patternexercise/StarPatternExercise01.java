@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.patternexercise;
 
 public class StarPatternExercise01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.erhan.sandpit;
+package com.erhan.sandpit.loopexercise;
 
 import java.util.Scanner;
 
