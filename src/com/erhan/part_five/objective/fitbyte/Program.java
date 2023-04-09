@@ -3,9 +3,9 @@ package com.erhan.part_five.objective.fitbyte;
 public class Program {
     public static void main(String[] args) {
         // This is an empty main method where you can experiment
-        // with your Fitbyte class
+        // with your FitByte class
 
-        Fitbyte fitbyte = new Fitbyte(30, 60);
+        FitByte fitbyte = new FitByte(30, 60);
 
         double percentage = 0.5;
 
