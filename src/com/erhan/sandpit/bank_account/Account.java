@@ -41,7 +41,7 @@ public class Account {
             System.out.println("Deposit amount must be greater than 0.00");
         }
         this.accountTransactions = count;
-//        return this.accountBalance;
+        System.out.println(this.accountBalance);
     }
 
     public int withdraw(){
