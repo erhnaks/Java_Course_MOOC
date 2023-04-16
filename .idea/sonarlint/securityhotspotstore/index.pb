@@ -209,3 +209,9 @@ f
 6src/com/erhan/part_five/objective/fitbyte/Program.java,1\1\11582f86387bee361d29740a89581f6dae7144c2
 g
 7src/com/erhan/sandpit/arrayexercise/PrintSomeStars.java,6\d\6d2c33753b0cf208e4a2631b765106fd5603e483
+p
+@src/com/erhan/sandpit/methodexercise/subjectaverage/Subject.java,d\4\d4cf7614f1f2340e4dde7b434afd1b5cf26afa29
+m
+=src/com/erhan/sandpit/methodexercise/subjectaverage/Main.java,0\b\0b71770122489dd379ec293284220587ab45753c
+\
+,src/com/erhan/sandpit/bank_account/Main.java,d\9\d9a7cfd813852a67d00611d96c526fd6d070ea67
