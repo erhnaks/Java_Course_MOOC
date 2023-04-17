@@ -2,7 +2,6 @@ package com.erhan.part_five.objective.counter;
 
 public class MainProgram {
 
-    public class MainProgram {
 
         public static void main(String[] args) {
             // Test your counter here
@@ -38,4 +37,4 @@ public class MainProgram {
         }
     }
 
-}
+
