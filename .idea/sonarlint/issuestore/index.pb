@@ -215,3 +215,7 @@ p
 @src/com/erhan/sandpit/methodexercise/subjectaverage/Subject.java,d\4\d4cf7614f1f2340e4dde7b434afd1b5cf26afa29
 \
 ,src/com/erhan/sandpit/bank_account/Main.java,d\9\d9a7cfd813852a67d00611d96c526fd6d070ea67
+_
+/src/com/erhan/sandpit/bank_account/Account.java,3\c\3c49bf4d2acc5211a8ee6647f87ae6a1c09fde42
+`
+0src/com/erhan/sandpit/bank_account/Customer.java,1\a\1afb8ee175021042be8de35cd9b35d0c57055bd4
