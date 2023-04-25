@@ -13,7 +13,7 @@ public class Calculator {
     }
 
     public void subtract(int num) {
-        this.value += num;
+        this.value -= num;
     }
 
     public int getValue() {
